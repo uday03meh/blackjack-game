@@ -1,7 +1,5 @@
-let playerName = prompt("Enter your name:")
-
 let player = {
-    name: playerName,
+    name: "Uday",
     chips: 200
 }
 
